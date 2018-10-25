@@ -1,4 +1,2 @@
-<<<<<<< Updated upstream
 Uusia juttuja on nyt muokattu
 Vai onko sittenkään
->>>>>>> Stashed changes
