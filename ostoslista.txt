@@ -1,2 +1,5 @@
 kurkkua
 tomaattia
+leipaa
+mehua
+juustoa
