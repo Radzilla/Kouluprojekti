@@ -3,3 +3,4 @@ tomaattia
 leipaa
 mehua
 juustoa
+piimää
